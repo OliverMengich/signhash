@@ -1,0 +1,7 @@
+C:\Users\olive\source\repos\SignHash\SignHash\bin\Debug\SignHash.exe.config
+C:\Users\olive\source\repos\SignHash\SignHash\bin\Debug\SignHash.exe
+C:\Users\olive\source\repos\SignHash\SignHash\bin\Debug\SignHash.pdb
+C:\Users\olive\source\repos\SignHash\SignHash\obj\Debug\SignHash.csprojAssemblyReference.cache
+C:\Users\olive\source\repos\SignHash\SignHash\obj\Debug\SignHash.csproj.CoreCompileInputs.cache
+C:\Users\olive\source\repos\SignHash\SignHash\obj\Debug\SignHash.exe
+C:\Users\olive\source\repos\SignHash\SignHash\obj\Debug\SignHash.pdb
